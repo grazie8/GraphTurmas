@@ -46,7 +46,7 @@ Certifique-se de que os seguintes requisitos estejam atendidos antes de utilizar
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/GraphTurmas.git
+git clone https://github.com/grazie8/GraphTurmas.git
 cd GraphTurmas
 
 # Instale as dependências
